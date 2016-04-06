@@ -1,0 +1,9 @@
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\bin\Debug\VHDLWatermarking.exe.config
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.Form1.resources
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.Properties.Resources.resources
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.csproj.GenerateResource.Cache
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\bin\Debug\VHDLWatermarking.exe
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\bin\Debug\VHDLWatermarking.pdb
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.exe
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.pdb
+D:\vova\lab8\VHDLWatermarking\VHDLWatermarking\obj\Debug\VHDLWatermarking.csprojResolveAssemblyReference.cache
